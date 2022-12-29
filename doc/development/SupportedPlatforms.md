@@ -1,5 +1,5 @@
 # Hyperion - Supported platforms
-Hyperion is currently suported on the following sets of configuration:
+Hyperion is currently supported on the following sets of configuration:
 > **_NOTE:_** Configurations tagged as unofficial are running in general, but are provided/maintained on a best effort basis.\
 In case of problems, it is recommended checking with the wider Hyperion community (https://hyperion-project.org/forum/).
 
